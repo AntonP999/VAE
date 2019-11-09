@@ -1,1 +1,1 @@
-### Implementation of variational autoencoder with classifier untangler.
+### PyTorch implementation of variational autoencoder with classifier untangler.
